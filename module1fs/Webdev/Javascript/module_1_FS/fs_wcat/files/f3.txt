@@ -1,0 +1,7 @@
+I am f3
+
+
+f3 is way less than f2
+
+
+f1 is greater than f3
